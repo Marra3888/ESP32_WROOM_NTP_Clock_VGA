@@ -1,5 +1,5 @@
 
-# ESP32_WROOM_NTP_Clock_VGA
+# ESP32 WROOM NTP Clock VGA
 
 ## Фото проекта
 
