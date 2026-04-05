@@ -1,3 +1,4 @@
+![Безымянный](https://github.com/user-attachments/assets/c626794b-1c89-4bfa-9045-35aa48b4c15d)
 # ESP32_WROOM_NTP_Clock_VGA
 
 ## Фото проекта
